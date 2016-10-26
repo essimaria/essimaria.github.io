@@ -27,10 +27,10 @@ h2 {
 }
 p {
   color: rgba(255, 255, 255, 1);
-  background: #10add1;
-  background: linear-gradient(bottom, rgba(16, 173, 209, 1), rgba(16, 173, 209, 0.49));
-  background: -webkit-linear-gradient(bottom, rgba(16, 173, 209, 1), rgba(16, 173, 209, 0.49));
-  background: -moz-linear-gradient(bottom, rgba(16, 173, 209, 1), rgba(16, 173, 209, 0.49));
+  background: #4ad9c1;
+  background: linear-gradient(bottom, rgba(74, 217, 193, 1), rgba(74, 217, 193, 0.49));
+  background: -webkit-linear-gradient(bottom, rgba(74, 217, 193, 1), rgba(74, 217, 193, 0.49));
+  background: -moz-linear-gradient(bottom, rgba(74, 217, 193, 1), rgba(74, 217, 193, 0.49));
   padding: 10px;
   text-align: center;
   position: absolute;
