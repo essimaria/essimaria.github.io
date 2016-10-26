@@ -40,30 +40,14 @@ p {
   -webkit-transition: height .5s;
   -moz-transition: height .5s;
 }
-
-small {
-  opacity: 0;
-}
-
-.show-description p {
-  height: 150px;
-}
-
-.show-description small {
-  opacity: 1;
-}
-
 .first{
   background-image: url("lunch.jpg");
 }
 .second{
-  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+  background-image: url("dinner.jpg");
 }
 .dessert{
-  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
-}
-.price {
-  float: right;
+  background-image: url("dessert.jpg");
 }
 @media (max-width: 500px) {
   h1 {
@@ -81,8 +65,5 @@ small {
   p {
     font-size: 20px;
     line-height: 24px;
-  }
-  small {
-    font-size: 16px;
   }
 }
