@@ -26,8 +26,8 @@ h2 {
   font-family: 'Courgette', cursive;
 }
 p {
-  color: rgba(255,255,255,1);
-  background: black;
+  color: rgba(147, 11, 45, 0.91);
+  background: #930b2d;
   background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
