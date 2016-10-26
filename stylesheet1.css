@@ -45,9 +45,6 @@ p {
 .dessert{
   background-image: url("dessert.jpg");
 }
-.icon {
-  float: right;
-  }
 @media (max-width: 500px) {
   h1 {
     font-size: 40px;
