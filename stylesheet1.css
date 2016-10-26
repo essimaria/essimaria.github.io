@@ -22,6 +22,7 @@ h2 {
   text-align: center;
   color: white;
   margin: 0px 0 70px 0;
+  font-size: 60px;
   font-family: 'Courgette', cursive;
 }
 p {
@@ -43,6 +44,9 @@ p {
 .dessert{
   background-image: url("dessert.jpg");
 }
+.icon {
+  float: right;
+  }
 @media (max-width: 500px) {
   h1 {
     font-size: 40px;
